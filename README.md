@@ -10,7 +10,11 @@
 - ⚡ Fun fact: I use Arch BTW
   <br />
 
-<a href="https://github-readme-stats.vercel.app/api?username=okhaimie-dev&show_icons=true&theme=dark" target="blank"> <img src="https://github-readme-stats.vercel.app/api?username=okhaimie-dev&show_icons=true&theme=dark" alt="okhaimie-dev" </a>
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=okhaimie-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
 
 ### Languages and Tools:
 
